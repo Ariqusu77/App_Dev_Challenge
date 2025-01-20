@@ -6,7 +6,7 @@
       {
         "id": "90d0c9d55712021b",
         "type": "tabs",
-        "dimension": 61.73285198555957,
+        "dimension": 72.51805054151625,
         "children": [
           {
             "id": "72c65b7008a478d3",
@@ -27,7 +27,7 @@
       {
         "id": "9a0634a7ae0c062c",
         "type": "tabs",
-        "dimension": 38.26714801444043,
+        "dimension": 27.481949458483758,
         "children": [
           {
             "id": "cb5a55a4f18371c5",
@@ -173,10 +173,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "cb5a55a4f18371c5",
+  "active": "72c65b7008a478d3",
   "lastOpenFiles": [
     "Welcome_To_Challenge.md",
     "Sketch/App_Dev_Sketch.md",
